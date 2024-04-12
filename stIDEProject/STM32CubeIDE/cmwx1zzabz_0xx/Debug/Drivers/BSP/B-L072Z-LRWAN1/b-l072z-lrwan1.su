@@ -1,0 +1,12 @@
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:93:10:BSP_GetVersion	0	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:98:6:BSP_ULT_TRIG_Init	32	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:112:6:BSP_ULT_TRIG_On	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:116:6:BSP_ULT_TRIG_Off	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:120:6:BSP_ULT_ECHO_Init	32	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:133:10:BSP_ULT_ECHO_Read	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:144:6:BSP_LED_Init	48	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:167:6:BSP_LED_On	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:179:6:BSP_LED_Off	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:191:6:BSP_LED_Toggle	8	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:207:6:BSP_PB_Init	40	static
+C:/Users/USER/Desktop/STM32CubeExpansion_LRWAN_V2.1.0/Drivers/BSP/B-L072Z-LRWAN1/b-l072z-lrwan1.c:245:10:BSP_PB_GetState	8	static
